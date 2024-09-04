@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp-1-project-1a",
+  "version": "1.0.0",
+  "description": "This is the first project of the Bootcamp. The resource material for this project is gotten from [Free CSS](https://www.free-css.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnprexy/bootcamp-1-project-1a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnprexy/bootcamp-1-project-1a/issues"
+  },
+  "homepage": "https://github.com/Johnprexy/bootcamp-1-project-1a#readme"
+}
